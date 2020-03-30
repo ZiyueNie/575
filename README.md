@@ -1,3 +1,3 @@
 # 575
 
-p2 p3 unfinished - [ipynb](src/P2.ipynb)
+p2 p3  - [ipynb](src/P2.ipynb)
