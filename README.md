@@ -2,4 +2,6 @@
 
 Loss project-p2 p3  - [ipynb](src/P2.ipynb)
 
-IB project-option greeks  - [ipynb](src/IB.ipynb)
+IB-option greeks & coupon bond  - [ipynb](src/IB.ipynb)
+
+IB project  - [ipynb](src/IB.ipynb)
